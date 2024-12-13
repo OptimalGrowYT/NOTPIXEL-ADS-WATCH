@@ -4,32 +4,6 @@
 ## [JOIN OUR TELEGRAM :](https://t.me/optimalgrowyt)
 ### [join NOTPIXEL Telegram Bot :](https://t.me/notpixel/app?startapp=f5500534801_s577266)
 
-```bash
-https://t.me/notpixel/app?startapp=f7376734359_s730341
-```
-```bash
-https://t.me/notpixel/app?startapp=f5500534801_s573790
-```
-```bash
-https://t.me/notpixel/app?startapp=f7249860661_s573790
-```
-```bash
-https://t.me/notpixel/app?startapp=f6466375170
-```
-```bash
-https://t.me/notpixel/app?startapp=f7239885424
-```
-# How to Get NOTPIXEL QUERY ID  
-
-1. Open your google chrome browser and login to the Telegram web .
-2. install [BYPASS TELEGRAM WEB EXTENSION :](https://chromewebstore.google.com/detail/bypass-telegram-web/jheaicmfgoefbdmadnhigbpdldafaokb).
-3. open NOTPIXEL BOT on telegram web
-4. at the right corner click on Bypass Telegram Web Extension 
-5. Click on  **GET QUERY ** tab
-6. DONE it has been copied successfully 
-7. QUERY ID , which looks like this: `"user=%7B%22id%22%3A7376734359%2C%22first_name%22%3A%22Wahid%XXXXXXX"`
-8. Go to NOTPIXEL ADS WATCHER Folder
-9. open QUERY_ID.txt file paste it save and close.
 
 ## Recommended Python Version
 
@@ -44,37 +18,17 @@ Run the following command to install the necessary packages:
 pip install -r requirements.txt
 ```
 
-## Running the Script
+## Running the Script on PC
 
-You can run the script using the following commands:
+1- Open install.bat file
+2- Open start.bat file
 
-### On PC Run Start.bat File - or using this command 
 ```bash
 python main.py
 ```
 
 ## FOR ANDROID
 
-# How to Get NOTPIXEL Query ID  Using Android Device
-
-1.  Install & Open KIWI browser and login to the Telegram web .
-2. install [BYPASS TELEGRAM WEB EXTENSION :](https://chromewebstore.google.com/detail/bypass-telegram-web/jheaicmfgoefbdmadnhigbpdldafaokb).
-3. open NOTPIXEL BOT on telegram web
-4. at the right corner click on Bypass Telegram Web Extension 
-5. Click on  **GET QUERY ** tab
-6. DONE it has been copied successfully 
-7. QUERY ID , which looks like this: `"user=%7B%22id%22%3A7376734359%2C%22first_name%22%3A%22Wahid%XXXXXXX"`
-8. Go to NOTPIXEL ADS WATCHER Folder
-9. open QUERY_ID.txt file paste it save and close.
-# you can access this file in termux using :
-
-```bash
-nano query_id.txt
-```
-#Install nano.txt on termux using 
-```bash
-pkg install nano 
-```
 ## Configure Termux
 
 After installing Termux, ensure you have allowed storage permission for Termux (device app) settings.  
@@ -102,18 +56,28 @@ pkg install nodejs
 
 ## How to install & use NOTPIXEL ADS WATCHER Hack on Termux.
 
+```bash
 pkg update && pkg upgrade -y
+```
 
+```bash
 pkg install python rust git -y
+```
 
-pkg install nano
-
+```bash
 git clone https://github.com/OptimalGrowYT/NOTPIXEL-ADS-WATCHER.git
+```
 
+```bash
 cd NOTPIXEL-ADS-WATCHER
+```
 
+```bash
 pip install -r requirements.txt
+```
 
-nano QUERY_ID.txt
-
+```bash
 python3 main.py
+```
+
+This script work with Referal Links run script and chose Option 1 for adding users > Then paste your notpixel referal Link 
