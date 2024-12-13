@@ -29,7 +29,6 @@ soupsieve
 TgCrypto
 typing_extensions
 tzdata
-tzlocal
 websockets
 win32-setctime
 pytz
