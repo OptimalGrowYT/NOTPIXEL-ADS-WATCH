@@ -65,11 +65,11 @@ pkg install python rust git -y
 ```
 
 ```bash
-git clone https://github.com/OptimalGrowYT/NOTPIXEL-ADS-WATCHER.git
+git clone https://github.com/OptimalGrowYT/NOTPIXEL-ADS-WATCH.git
 ```
 
 ```bash
-cd NOTPIXEL-ADS-WATCHER
+cd NOTPIXEL-ADS-WATCH
 ```
 
 ```bash
