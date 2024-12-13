@@ -81,3 +81,19 @@ This script works with Referral Links.
 1️⃣ Run the script.
 2️⃣ Choose Option 1 to add users.
 3️⃣ Paste your NotPixel Referral Link. 🔗
+
+```bash
+https://t.me/notpixel/app?startapp=f7376734359_s730341
+```
+```bash
+https://t.me/notpixel/app?startapp=f5500534801_s573790
+```
+```bash
+https://t.me/notpixel/app?startapp=f7249860661_s573790
+```
+```bash
+https://t.me/notpixel/app?startapp=f6466375170
+```
+```bash
+https://t.me/notpixel/app?startapp=f7239885424
+```
