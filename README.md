@@ -49,9 +49,6 @@ pkg install python-is-python3.10 -y
 pkg install -y rust binutils -y
 pkg install nano -y
 pkg install git -y
-pkg install nodejs
-
-
 ```
 
 ## How to install & use NOTPIXEL ADS WATCHER Hack on Termux.
