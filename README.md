@@ -80,4 +80,7 @@ pip install -r requirements.txt
 python3 main.py
 ```
 
-This script work with Referal Links run script and chose Option 1 for adding users > Then paste your notpixel referal Link 
+This script works with Referral Links.
+1️⃣ Run the script.
+2️⃣ Choose Option 1 to add users.
+3️⃣ Paste your NotPixel Referral Link. 🔗
