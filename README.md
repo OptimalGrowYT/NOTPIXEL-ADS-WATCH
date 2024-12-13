@@ -1,5 +1,5 @@
 # NOTPIXEL ADS WATCHER
-<img src="https://github.com/OptimalGrowYT/NOTPIXEL-ADS_WATCHER/blob/main/PNG" alt="توضیح تصویر" width="1280" height="520">
+<img src="https://github.com/OptimalGrowYT/NOTPIXEL-ADS-WATCHER/blob/main/SS.png" alt="توضیح تصویر" width="1280" height="520">
 
 ## [JOIN OUR TELEGRAM :](https://t.me/optimalgrowyt)
 ### [join NOTPIXEL Telegram Bot :](https://t.me/notpixel/app?startapp=f5500534801_s577266)
